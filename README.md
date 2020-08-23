@@ -34,3 +34,9 @@ The main issue (which is an original feature) for me is that the output volume i
 
 This version adds an opamp to add gain to the output to approx 10v p-p. It also normalises T1 to osc 2 cv input
 (can still be attenuated with the pot), normalises T2 to osc 1 cv and T2 to filter cv input.
+
+- - - -
+
+## fr4 2-layer blank Panel
+
+![panel_image](https://github.com/ukyzky/Benjolin/raw/blank_panel/panel_blank_fr4_2layer/benjolin_panel_blank3_image.jpeg)
